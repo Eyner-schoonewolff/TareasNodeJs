@@ -91,4 +91,8 @@ npm test
 ### API
 - **REST**: Diseño de API siguiendo principios REST
 - **JSON**: Formato estándar para intercambio de datos
-- **Express**: Framework minimalista para desarrollo de APIs 
+- **Express**: Framework minimalista para desarrollo de APIs
+
+## Uso de Cloud.mongoDb
+
+<img width="1399" alt="imagen" src="https://github.com/user-attachments/assets/fff7a5b4-2f32-4d0c-8062-e88252edbaec" />
